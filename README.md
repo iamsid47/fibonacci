@@ -81,6 +81,8 @@ This calculation is in accordance to the Fibonacci Sequential formula.
 
 ## Voila!
 
+![You did it](https://media.giphy.com/media/3ohhwMUC7YRqk7mVsk/giphy.gif)
+
 You just created the history's most amazing generator application for mathematics!
 
 ## Hack It ;)
