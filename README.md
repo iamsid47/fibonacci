@@ -5,7 +5,9 @@ author: '@iamsid47'
 img: https://github.com/iamsid47/hangman-pics/blob/main/hangman.png
 ---
 
-*Hi Everyone! In this workshop, we will walkthrough how to build the game: ***Fibonacci Sequence Generator!**** 
+Hi Everyone! In this workshop, we will walkthrough how to build a **Fibonacci Sequence Generator!**
+
+![Fibonacci](https://github.com/iamsid47/hangman-pics/blob/main/fibo%20-%20main.png)
 
 ### What is the Fibonacci Sequence?
 
@@ -19,13 +21,15 @@ Written as a rule, the expression is:
   
 So, we are going to create a generator for this sequence using Python!
 
-You can see this project live on Repl.it by clicking [THIS]() link.
+You can see this project live on Repl.it by clicking [THIS](https://repl.it/@iamsid47/fibonacci#main.py) link.
 
 ## Files & Libraries
 
 We will just need one file for our python code to run. We will name it as `main.py` There are no external libraries required!
 
 ## Let's Get Started!
+
+![Create a repl](https://github.com/iamsid47/hangman-pics/blob/main/fibo-repl.png)
 
 So, we are creating a program which can display us the sequence to the **n***th* number. Meaning, if we gave the input as 10, it will generate the sequence till 10th number.
 
@@ -86,3 +90,11 @@ You can easily customize this generator to something other. For an example, twea
 Instead of printing the whole sequence, you can just print the number on the **n***th* place. Meaning the sequential number on 18th place would be?
 
 It is also possible to the Fibonacci sequence in a backward direction. Meaning that we start from infinite and then head over to one and finally zero. This is a bit hypothetical but it would be pretty cool to get answers from the generator like **infinite + x/n**. 
+
+## How it looks?
+
+![fibonaci 1](https://github.com/iamsid47/hangman-pics/blob/main/fibo%20-h%20-%201.png)
+
+![fibonaci 2](https://github.com/iamsid47/hangman-pics/blob/main/fibo%20h%202.png)
+
+![fibonaci 3](https://github.com/iamsid47/hangman-pics/blob/main/fibo%20h%203.png)
